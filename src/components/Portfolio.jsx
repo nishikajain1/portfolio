@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaExternalLinkAlt } from "react-icons
 import { motion } from "framer-motion";
 import "../styles/Portfolio.css";
 import "../styles/mediaQuery.css"
-import logo from "../images/girlLogo.gif"
+import logo from "../images/GirlLogo.gif"
 import profilePic from "../images/profileImg.jpg"
 import Nishika_Jain_Resume from "../resume/Nishika_Jain_Resume.pdf"
 import html from "../images/techLogo/html.png"
